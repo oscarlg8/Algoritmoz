@@ -1,0 +1,21 @@
+CorrelationId: 61fa7cbf-c0d6-4ae8-b4cd-37fb7c302b01
+UTC DateTime: 03/11/2023 16:55:13
+
+The following files/folders have not been downloaded
+0. venv/Lib/site-packages/django/template
+1. venv/Lib/site-packages/django/templatetags
+2. venv/Lib/site-packages/django/test
+3. venv/Lib/site-packages/django/urls
+4. venv/Lib/site-packages/django/utils
+5. venv/Lib/site-packages/django/views
+6. venv/Lib/site-packages/Django-4.1.7.dist-info
+7. venv/Lib/site-packages/pip
+8. venv/Lib/site-packages/pip-22.3.1.dist-info
+9. venv/Lib/site-packages/pkg_resources
+10. venv/Lib/site-packages/setuptools
+11. venv/Lib/site-packages/setuptools-65.5.0.dist-info
+12. venv/Lib/site-packages/sqlparse
+13. venv/Lib/site-packages/sqlparse-0.4.3.dist-info
+14. venv/Lib/site-packages/tzdata
+15. venv/Lib/site-packages/tzdata-2022.7.dist-info
+16. venv/Scripts
